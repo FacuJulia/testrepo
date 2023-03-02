@@ -23,3 +23,9 @@
 - To create a repository in GitHub with README.md
 - To create a repository in GitHub without README.md
 Note: These instructions works on BASH terminal on Windows & Mac terminals.
+
+### [LAB: Add file to Repository in GitHub](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFMwMTA1RU4tU2tpbGxzTmV0d29yay9sYWJzL01vZHVsZTIvR2l0SHViJTIwLSUyMFBhcnQlMjAyLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3NjQ1ODQ1MX0.8VGASgcX1XTjMjFoDUVlxRttAIoyUElFAthHd843ufM)
+
+- To add file to repository on GitHub
+- To add file to repository on GitHub through command line
+Note: These instructions works on BASH terminal on Windows & Mac terminals.
