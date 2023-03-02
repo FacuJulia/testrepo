@@ -31,3 +31,10 @@ Note: These instructions works on BASH terminal on Windows & Mac terminals.
 Note: These instructions works on BASH terminal on Windows & Mac terminals.
 
 ![](https://github.com/FacuJulia/testrepo/blob/main/img/add_branch.PNG)
+
+### [LAB 6: Fork and Pull](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFMwMTA1RU4tU2tpbGxzTmV0d29yay9sYWJzL01vZHVsZTIvR2l0SHViJTIwLSUyMFBhcnQlMjAzLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3NTQwOTk3NX0.97CCsrNQ1R6rp9QpSjiUVGiDvPvryjiAag9e_K_ROuU)
+
+- To fork a repository in GitHub
+- To make changes to the forked repository and commit the changes
+- To create pull requests
+Note: These instructions works on BASH terminal on Windows & Mac terminals.
