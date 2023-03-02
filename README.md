@@ -29,3 +29,5 @@ Note: These instructions works on BASH terminal on Windows & Mac terminals.
 - To add file to repository on GitHub
 - To add file to repository on GitHub through command line
 Note: These instructions works on BASH terminal on Windows & Mac terminals.
+
+![](https://github.com/FacuJulia/testrepo/blob/main/img/add_branch.PNG)
